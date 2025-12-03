@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const host = 'https://wilcox-portfolio.vercel.app' + (process.env.BASE_PATH || '');
+  const host = 'https://martin-chavez.vercel.app' + (process.env.BASE_PATH || '');
   return [
     {
       url: host,

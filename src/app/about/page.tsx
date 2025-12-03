@@ -5,7 +5,7 @@ import type { Metadata } from 'next';
 import aboutImage from '@/app/assets/about.svg';
 
 export const metadata: Metadata = {
-  title: "Wilcox Ekente | I'm glad to meet you",
+  title: "Martin Chavez | I'm glad to meet you",
   description:
     'With a simple communication, a clean and optimized code convention, a high quality development for collaboration and maintenance, and a keeping schedules for a project.',
   alternates: {
