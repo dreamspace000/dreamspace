@@ -14,16 +14,16 @@ const NavItems = [
     name: 'Experience',
     href: '/experience',
   },
-  {
-    name: 'Github',
-    className: 'fork-btn-inner',
-    href: 'https://github.com/dreamspace000',
-    icon: () => (
-      <>
-        <CGGitFork style={{ fontSize: '1.2em' }} /> <PPStarFilled style={{ fontSize: '1.1em' }} />
-      </>
-    ),
-  },
+  // {
+  //   name: 'Github',
+  //   className: 'fork-btn-inner',
+  //   href: 'https://github.com/dreamspace000',
+  //   icon: () => (
+  //     <>
+  //       <CGGitFork style={{ fontSize: '1.2em' }} /> <PPStarFilled style={{ fontSize: '1.1em' }} />
+  //     </>
+  //   ),
+  // },
 ];
 
 export default NavItems;

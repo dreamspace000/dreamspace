@@ -2,12 +2,6 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## 🔖Repository Status
-
-[![Auto Assign](https://github.com/poxii/wilcox.portfolio/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/poxii/wilcox.portfolio/actions/workflows/auto-assign.yml)
-[![CodeQL](https://github.com/poxii/wilcox.portfolio/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/poxii/wilcox.portfolio/actions/workflows/github-code-scanning/codeql)
-[![Next.js Bundle Analysis](https://github.com/poxii/wilcox.portfolio/actions/workflows/nextjs-bundle-analysis.yml/badge.svg)](https://github.com/poxii/wilcox.portfolio/actions/workflows/nextjs-bundle-analysis.yml)
-[![Proof HTML](https://github.com/poxii/wilcox.portfolio/actions/workflows/proof-html.yml/badge.svg)](https://github.com/poxii/wilcox.portfolio/actions/workflows/proof-html.yml)
 
 ## 📝Environment
 
