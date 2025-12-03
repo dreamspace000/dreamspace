@@ -8,9 +8,9 @@ import homeImage from '@/app/assets/home.svg';
 import avatarImage from '@/app/assets/avatar.svg';
 
 export const metadata: Metadata = {
-  title: 'Wilcox Ekente | Senior Full Stack Developer & SEO Specialist',
+  title: 'Martin Chavez | Senior Full Stack Developer & DevOps Engineer',
   description:
-    'As a seasoned Senior Full Stack Developer specializing in SEO and MERN Stack, I offer a proven track record of crafting resilient, intuitive web applications.',
+    'As a seasoned Senior Full Stack Developer specializing in DevOps and MERN Stack, I offer a proven track record of crafting resilient, intuitive web applications.',
 };
 
 export default function Page() {
@@ -30,7 +30,7 @@ export default function Page() {
 
             <h1 className="py-2 text-center">
               My name is
-              <strong className="font-bold text-impact"> Wilcox Ekente</strong>
+              <strong className="font-bold text-impact"> Martin Chavez</strong>
             </h1>
 
             <div className="py-14">
@@ -39,7 +39,7 @@ export default function Page() {
                   <strong className="text-impact">Senior</strong> Full Stack Developer
                 </li>
                 <li>
-                  <strong className="text-impact">SEO</strong> Specialist
+                  <strong className="text-impact">DevOps</strong> Engineer
                 </li>
                 <li>
                   Continuously <strong className="text-impact">Learning</strong>
@@ -68,14 +68,16 @@ export default function Page() {
               Let me <span className="text-impact">Introduce</span> myself
             </h2>
             <p className="text-xl leading-8">
-              As a Senior Full Stack Developer and also SEO specialist with over a decade of experience, I have excelled
-              in implementing strategic SEO techniques, leveraging technologies like MERN stack and WordPress in
-              crafting visually stunning web applications and deliver innovative solutions. Recognized for strong
-              problem-solving and analytical capabilities, coupled with effective communication. Eager to bring my
-              dynamic skill set to contribute to innovative projects.
+              This is Martin Chavez and I’ve been working as a software engineer for a decade. During my career, 
+              I’ve had the pleasure of collaborating with teams at companies like Walt Disney, where I specialized 
+              in building scalable applications using React, Node.js, and AWS. I’m also well-versed in creating robust RESTful APIs, 
+              utilizing containerization with Docker and Kubernetes, and managing databases like MongoDB and PostgreSQL. 
+              I’m passionate about mentoring and fostering innovation, and I’m excited to bring my comprehensive skill set 
+              and enthusiasm to a dynamic new team.	
+
               <br />
               <br />
-              Web Application Development and SEO is not only my job, but also my life.
+              Web Application Development and DevOps is not only my job, but also my life.
               <br />
               <br />I can work full time, 8+ hours a day, 6 days a week. I hope to work with you in a long time.
             </p>

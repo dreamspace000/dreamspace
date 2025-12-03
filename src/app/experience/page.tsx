@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Experience from '@/components/clients/Experience';
 
 export const metadata: Metadata = {
-  title: 'Wilcox Ekente | Experience & Education',
+  title: 'Martin Chavez | Experience & Education',
   description: 'I can work full time, 8+ hours a day, 6 days a week. I hope to work with you in a long time.',
   alternates: {
     canonical: '/experience',

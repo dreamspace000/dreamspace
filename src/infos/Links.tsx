@@ -1,10 +1,11 @@
 import { ICPGithubIconWhite } from '@icongo/ic';
-import { LGGithubIcon, LGGoogleGmail } from '@icongo/lg';
+import { LGGithubIcon, LGGoogleGmail, } from '@icongo/lg';
+import { ADPhone } from '@icongo/ad/lib/ADPhone';
 import { AELinkedin } from '@icongo/ae/lib/AELinkedin';
 
 const LinkInfos = [
   {
-    href: 'mailto:wilcoxekenta@gmail.com',
+    href: 'mailto:martin94chavez.tech@gmail.com',
     icon: {
       dark: LGGoogleGmail,
       light: LGGoogleGmail,
@@ -12,7 +13,7 @@ const LinkInfos = [
     label: 'Google Mail',
   },
   {
-    href: 'https://www.linkedin.com/in/wilcox-ekenta-3456041a1/',
+    href: 'https://www.linkedin.com/in/martin-chavez-591901392',
     icon: {
       dark: AELinkedin,
       light: AELinkedin,
@@ -20,13 +21,21 @@ const LinkInfos = [
     label: 'LinkedIn',
   },
   {
-    href: 'https://github.com/poxii',
+    href: 'https://github.com/dreamspace000',
     icon: {
       dark: LGGithubIcon,
       light: ICPGithubIconWhite,
     },
     label: 'Github',
   },
+  {
+    href: 'callto:+12136720983',
+    icon: {
+      dark: ADPhone,
+      light: ADPhone,
+    },
+    label: 'Phone',
+  }
 ];
 
 export default LinkInfos;

@@ -24,16 +24,16 @@ export default function Page() {
       <div className="grid md:grid-cols-12 mt-28">
         <div className="md:col-span-7 flex flex-col items-center">
           <h1 className="pb-20 text-center text-4xl">
-            I&apos;m <strong className="text-impact">Wilcox Ekente</strong>, really glad to meet{' '}
+            I&apos;m <strong className="text-impact">Martin Chavez</strong>, really glad to meet{' '}
             <strong className="text-impact">you</strong>
           </h1>
 
           <p className="text-xl leading-8">
-            Hi, everyone, I&apos;m <span className="text-impact">Wilcox Ekente</span>.<br />
-            I&apos;m <span className="text-impact">Senior Full Stack Developer</span> and{' '}
-            <span className="text-impact">SEO Specialist</span>.
+            Hi, everyone, I&apos;m <span className="text-impact">Martin Chavez</span>.<br />
+            I&apos;m <span className="text-impact">Senior Full Stack Engineer</span> and{' '}
+            <span className="text-impact">Devops Engineer</span>.
             <br />
-            <br />I have 8+ years&apos; experience for web development and SEO. During last years, I had earned many
+            <br />I have a decade &apos; experience for web development and DevOps. During last years, I had earned many
             skills to develop and manage a website and it now helps for a new project to develop in a high quality,
             rapidly.
             <br />
@@ -65,7 +65,7 @@ export default function Page() {
 
       <div className="text-xl leading-8 lg:w-1/2 px-10 mt-28 mx-auto">
         <p>
-          For many aspects, such as Requirement Analysis, Architect Design, Database Modeling, Front-end/Back-end Coding
+          For many aspects, such as Requirement Analysis, Architect Design, DevOps Engineering, Front-end/Back-end Coding
           and Maintenance, I support reliable and qualified service.
         </p>
         <ul className="list-disc list-inside ml-5">

@@ -3,7 +3,7 @@ import RootLayout from '@/components/layouts/RootLayout';
 import type { Metadata, Viewport } from 'next';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://wilcox-portfolio.vercel.app'),
+  metadataBase: new URL('https://martin-portfolio.vercel.app'),
   alternates: {
     canonical: '/',
   },
