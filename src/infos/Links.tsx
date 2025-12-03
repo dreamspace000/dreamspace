@@ -1,6 +1,6 @@
 import { ICPGithubIconWhite } from '@icongo/ic';
 import { LGGithubIcon, LGGoogleGmail, } from '@icongo/lg';
-import { ADPhone } from '@icongo/ad/lib/ADPhone';
+import ADPhone from '@icongo/ad/ADPhone';
 import { AELinkedin } from '@icongo/ae/lib/AELinkedin';
 
 const LinkInfos = [
