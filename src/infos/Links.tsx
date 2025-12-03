@@ -1,6 +1,5 @@
 import { ICPGithubIconWhite } from '@icongo/ic';
 import { LGGithubIcon, LGGoogleGmail, } from '@icongo/lg';
-import ADPhone from '@icongo/ad/ADPhone';
 import { AELinkedin } from '@icongo/ae/lib/AELinkedin';
 
 const LinkInfos = [
@@ -28,14 +27,14 @@ const LinkInfos = [
     },
     label: 'Github',
   },
-  {
-    href: 'callto:+12136720983',
-    icon: {
-      dark: ADPhone,
-      light: ADPhone,
-    },
-    label: 'Phone',
-  }
+  // {
+  //   href: 'callto:+12136720983',
+  //   icon: {
+  //     dark: ADPhone,
+  //     light: ADPhone,
+  //   },
+  //   label: 'Phone',
+  // }
 ];
 
 export default LinkInfos;
